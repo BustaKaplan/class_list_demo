@@ -1,4 +1,5 @@
-# Two Truths and a Lie: Team Challenge
+# Class List: Demo
 
-view challenge overview:   
-[Google Drive - Two Truths and a Lie](https://docs.google.com/presentation/d/1mmRgdUkF7gyyZuQxilZzvtWNp4pA02MGhzHHBlrxf-w/edit?usp=sharing)
+This repo demonstrate object oriented javascript practices. We completed the demo in class as a group!
+
+Feel free to add to.
